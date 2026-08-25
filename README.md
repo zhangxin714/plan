@@ -31,6 +31,7 @@
 - [雅思冲刺计划](ielts-plan.md)
 - [计算机项目计划](project-plan.md)
 - [离散数学计划](discrete-math-plan.md)
+- [Python 与 Git 零基础第一周](python-git-zero-basics.md)
 - [申请材料清单](application-checklist.md)
 - [每周复盘模板](weekly-review.md)
 - [生活计划](life.md)
